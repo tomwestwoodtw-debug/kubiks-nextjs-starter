@@ -1,5 +1,5 @@
 import DriftingSands from "@/components/DriftingSands";
 
-export default function Home() {
+export default function SandsPage() {
 	return <DriftingSands />;
 }
