@@ -5,6 +5,7 @@
   "description": "Next.js starter template for Kubiks",
   "author": "Kubiks",
   "license": "MIT",
+  "packageManager": "pnpm@10.33.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/kubiks-inc/nextjs-starter-kubiks"
