@@ -13,9 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "Kubiks Next.js Starter",
-	description:
-		"Next.js starter template for use with Kubiks. The only Telemetry SDK you'll ever need for TypeScript observability.",
+	title: "Sands",
+	description: "A discreet safety planning and support tool.",
 };
 
 export default function RootLayout({
