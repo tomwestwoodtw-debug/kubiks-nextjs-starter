@@ -8,7 +8,7 @@
   "packageManager": "pnpm@10.33.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kubiks-inc/nextjs-starter-kubiks"
+    "url": "https://github.com/tomwestwoodtw-debug/kubiks-nextjs-starter"
   },
   "keywords": [
     "nextjs",
